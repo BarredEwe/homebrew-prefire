@@ -5,8 +5,6 @@ class Prefire < Formula
 	sha256 "c7cbd1ef42f73a001d116b975838a04a8af7fdbdd9bbcecd81485ac2640a2f46"
 	license "Apache-2.0"
   
-	depends_on "sourcery" => :required
-  
 	def install
 		bin.install "prefire"
 	end
