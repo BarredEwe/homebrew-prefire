@@ -9,9 +9,6 @@ class Prefire < Formula
   
 	def install
 		bin.install "prefire"
-
-		libexec.install "PreviewTests.stencil"
-		libexec.install "PreviewModels.stencil"
 	end
   
 	test do
