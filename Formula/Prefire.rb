@@ -1,8 +1,8 @@
 class Prefire < Formula
 	desc "A library for easily generating automatic Playbook (Demo) view, Tests using Preview"
 	homepage "https://github.com/barredewe/prefire"
-	url "https://github.com/barredewe/prefire/releases/download/5.0.1/prefire.tar.gz"
-	sha256 "c7cbd1ef42f73a001d116b975838a04a8af7fdbdd9bbcecd81485ac2640a2f46"
+	url "https://github.com/barredewe/prefire/releases/download/5.1.0/prefire.tar.gz"
+	sha256 "02727e127d470dc98ffaa1905299d1911d329870947d311925d1f0b4402a25ca"
 	license "Apache-2.0"
   
 	def install
